@@ -1,0 +1,54 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    padding: 10px;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float: none;
+    font-family: 'M PLUS Code Latin', sans-serif;
+    font-size: 20px;
+
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    background-color: gray;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+
+  }
+
+  .copy_right_footer{
+    background-color:darkolivegreen;
+    width: 100%;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    color: white;
+    font-family: 'EB Garamond', serif;
+  }
+
+  #heading_details{
+    font-size: 40px;
+    font-family: 'Gideon Roman', cursive;
+  }
+
+  canvas{
+    border-width: 10px;
+    border-style: groove;
+    border-color: darkslategray;
+    margin-top: 140px;
+  }
+ 
